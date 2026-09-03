@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.telco.safetysdk.PolicyLogicTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-09-03T05:31:39" hostname="Abhisheks-MacBook-Pro.local" time="0.012">
+  <properties/>
+  <testcase name="studyWindow" classname="com.telco.safetysdk.PolicyLogicTest" time="0.001"/>
+  <testcase name="geofenceAndRoute" classname="com.telco.safetysdk.PolicyLogicTest" time="0.009"/>
+  <testcase name="bedtimeWrapsMidnight" classname="com.telco.safetysdk.PolicyLogicTest" time="0.0"/>
+  <testcase name="catalogMarksRestrictedItems" classname="com.telco.safetysdk.PolicyLogicTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

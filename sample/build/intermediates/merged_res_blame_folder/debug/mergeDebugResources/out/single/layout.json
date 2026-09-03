@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.telco.safetysdk.sample-mergeDebugResources-38:/layout/activity_main.xml",
+        "source": "com.telco.safetysdk.sample-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.telco.safetysdk.sample-mergeDebugResources-38:/layout/fragment_list.xml",
+        "source": "com.telco.safetysdk.sample-main-41:/layout/fragment_list.xml"
+    },
+    {
+        "merged": "com.telco.safetysdk.sample-mergeDebugResources-38:/layout/fragment_safety.xml",
+        "source": "com.telco.safetysdk.sample-main-41:/layout/fragment_safety.xml"
+    },
+    {
+        "merged": "com.telco.safetysdk.sample-mergeDebugResources-38:/layout/fragment_parental.xml",
+        "source": "com.telco.safetysdk.sample-main-41:/layout/fragment_parental.xml"
+    },
+    {
+        "merged": "com.telco.safetysdk.sample-mergeDebugResources-38:/layout/item_capability.xml",
+        "source": "com.telco.safetysdk.sample-main-41:/layout/item_capability.xml"
+    },
+    {
+        "merged": "com.telco.safetysdk.sample-mergeDebugResources-38:/layout/fragment_signals.xml",
+        "source": "com.telco.safetysdk.sample-main-41:/layout/fragment_signals.xml"
+    }
+]

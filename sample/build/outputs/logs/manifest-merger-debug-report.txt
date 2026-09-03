@@ -1,0 +1,376 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [androidx.databinding:viewbinding:8.7.3] /Users/touchnote/.gradle/caches/9.0.0/transforms/6a842e2793eaa7291c2d611778c1a95d/transformed/jetified-viewbinding-8.7.3/AndroidManifest.xml:2:1-7:12
+MERGED from [:sdk] /Users/touchnote/StudioProjects/android-gpuimage/sdk/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.android.material:material:1.12.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/36bf3ddb08cd5abbac8c2dc447134d01/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/7259e95106904c51abfd7f296eb0dfec/transformed/constraintlayout-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/1d750fcfddc58faa0cdde489811a5e55/transformed/jetified-appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/44312a89eee208f1bfcdf6d86237e509/transformed/appcompat-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] /Users/touchnote/.gradle/caches/9.0.0/transforms/58e59e3b0e7c9517e56cf1f5ab615ab0/transformed/recyclerview-1.3.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /Users/touchnote/.gradle/caches/9.0.0/transforms/eda19db33517e71382ba6b643ba507c9/transformed/jetified-viewpager2-1.1.0-beta02/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.8.5] /Users/touchnote/.gradle/caches/9.0.0/transforms/88ba1d648664e36d709c5d9ed2017f47/transformed/fragment-1.8.5/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment-ktx:1.8.5] /Users/touchnote/.gradle/caches/9.0.0/transforms/7938445013907092a34c1162a004bbed/transformed/jetified-fragment-ktx-1.8.5/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.9.3] /Users/touchnote/.gradle/caches/9.0.0/transforms/ef4822035f1f649c39bd16b9d03302f1/transformed/jetified-activity-1.9.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.9.3] /Users/touchnote/.gradle/caches/9.0.0/transforms/fa4455ac3be8601af709b5f5e55db16c/transformed/jetified-activity-ktx-1.9.3/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/f81fa07b7c054f956b0b4b3809d3f25f/transformed/jetified-emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/a8213cdd24ca61acff5827e8f5ac8512/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/touchnote/.gradle/caches/9.0.0/transforms/891fc0a28eeedf11ef0df0d6b6ed46cc/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/e79555247f5e654a27e40d05764e53c1/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/e8d7b2373ca8d39466f152a505f9c775/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/70338d1794289f30765508d35003b9cf/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/079f8c0f95f2e05c5b882974aed92ee1/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/24df9741243408be784f970fcdc04678/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d10bdaa07177d65e7b491ced4ded2c7f/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/e16433bb11d6c2f4250860a8212cdd8e/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/175a146ad022e810129980bff16fc3eb/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/2653732da054e4fad0c39bbc2f121164/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.15.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/15a2a0518524ee6010326b1af8d8848f/transformed/core-1.15.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/cf213c8735f87b61e65dc35e4ecc831f/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/touchnote/.gradle/caches/9.0.0/transforms/35938cc212d9f428fd1f7fbfa8f9bc7c/transformed/jetified-savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/touchnote/.gradle/caches/9.0.0/transforms/1eee9e040601afeb35bda8c7b501df84/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/9491f52922d39e7e39da849de07ebed8/transformed/lifecycle-livedata-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/dba0f02e72c7c216033ee8580d90867b/transformed/lifecycle-viewmodel-2.8.7/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/0bb999dba406f35a6a9a77c829c84aaa/transformed/jetified-lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/1441555b04dd3433ef6233b8fd7a514e/transformed/jetified-lifecycle-runtime-ktx-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/bbccda44f5d3a7e108b7a8c8ab3a2f3b/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/d8c809a0a9ec966d2fa8c748f5b5e80c/transformed/jetified-lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/98b533168346b02bd582e925d45f4f80/transformed/jetified-lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/47408f6bd95dc3c5fd2a61cf3d8d485d/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/f885671ffd8d436d4c87ff3a1aac7bf9/transformed/jetified-lifecycle-livedata-core-ktx-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/b12db3348a05e0fa28084cc9d59e2e90/transformed/jetified-lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.15.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/7b1b857b8cad8038e44dbcf3250a4a20/transformed/jetified-core-ktx-1.15.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/8a85055667b00cb304cfd6b694b30cf7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/5fab2eef2b0a1da015dc6b833c5ee616/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d0218a1ff4ea753d49cd0b0034259a61/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/touchnote/.gradle/caches/9.0.0/transforms/2426571dbb07a4bffbda7771202cff79/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d3dd78e837d0673b195238a7a796805f/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/af1b5a5e89f54834e75db9b43b1f3a16/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/touchnote/.gradle/caches/9.0.0/transforms/ff6dc32c73b1ad6021bfe2861b979cba/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/b9f6667326a2077cc8cd2784b108e4e4/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/6e7d6c79c663ae058616086b60d6abab/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/77be4a3ad9c9f86048960f1829ffcb6d/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/84d2dab072dede93712e7dd12dfd2ed5/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/touchnote/.gradle/caches/9.0.0/transforms/587b09e686036a7c060a0ffd44d2fd57/transformed/jetified-annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml:5:5-77
+MERGED from [:sdk] /Users/touchnote/StudioProjects/android-gpuimage/sdk/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:18:5-77
+MERGED from [:sdk] /Users/touchnote/StudioProjects/android-gpuimage/sdk/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:18:5-77
+	android:name
+		ADDED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml:5:22-74
+application
+ADDED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml:7:5-29:19
+INJECTED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml:7:5-29:19
+MERGED from [com.google.android.material:material:1.12.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/36bf3ddb08cd5abbac8c2dc447134d01/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/36bf3ddb08cd5abbac8c2dc447134d01/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/7259e95106904c51abfd7f296eb0dfec/transformed/constraintlayout-2.2.0/AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/7259e95106904c51abfd7f296eb0dfec/transformed/constraintlayout-2.2.0/AndroidManifest.xml:7:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/a8213cdd24ca61acff5827e8f5ac8512/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/a8213cdd24ca61acff5827e8f5ac8512/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.15.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/15a2a0518524ee6010326b1af8d8848f/transformed/core-1.15.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.15.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/15a2a0518524ee6010326b1af8d8848f/transformed/core-1.15.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/47408f6bd95dc3c5fd2a61cf3d8d485d/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/47408f6bd95dc3c5fd2a61cf3d8d485d/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d0218a1ff4ea753d49cd0b0034259a61/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d0218a1ff4ea753d49cd0b0034259a61/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/touchnote/.gradle/caches/9.0.0/transforms/2426571dbb07a4bffbda7771202cff79/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/touchnote/.gradle/caches/9.0.0/transforms/2426571dbb07a4bffbda7771202cff79/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/touchnote/.gradle/caches/9.0.0/transforms/ff6dc32c73b1ad6021bfe2861b979cba/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/touchnote/.gradle/caches/9.0.0/transforms/ff6dc32c73b1ad6021bfe2861b979cba/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.15.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/15a2a0518524ee6010326b1af8d8848f/transformed/core-1.15.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml:10:9-42
+	android:icon
+		ADDED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml:9:9-56
+	android:allowBackup
+		ADDED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml:8:9-36
+	android:theme
+		ADDED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml:12:9-68
+activity#com.telco.safetysdk.sample.MainActivity
+ADDED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml:13:9-20:20
+	android:exported
+		ADDED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml:18:27-74
+service#com.telco.safetysdk.sample.PolicyVpnService
+ADDED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml:21:9-28:19
+	android:exported
+		ADDED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml:23:13-37
+	android:permission
+		ADDED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml:24:13-69
+	android:name
+		ADDED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml:22:13-45
+intent-filter#action:name:android.net.VpnService
+ADDED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml:25:13-27:29
+action#android.net.VpnService
+ADDED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml:26:17-65
+	android:name
+		ADDED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml:26:25-62
+uses-sdk
+INJECTED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml
+INJECTED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.7.3] /Users/touchnote/.gradle/caches/9.0.0/transforms/6a842e2793eaa7291c2d611778c1a95d/transformed/jetified-viewbinding-8.7.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.7.3] /Users/touchnote/.gradle/caches/9.0.0/transforms/6a842e2793eaa7291c2d611778c1a95d/transformed/jetified-viewbinding-8.7.3/AndroidManifest.xml:5:5-44
+MERGED from [:sdk] /Users/touchnote/StudioProjects/android-gpuimage/sdk/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:sdk] /Users/touchnote/StudioProjects/android-gpuimage/sdk/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.12.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/36bf3ddb08cd5abbac8c2dc447134d01/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/36bf3ddb08cd5abbac8c2dc447134d01/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/7259e95106904c51abfd7f296eb0dfec/transformed/constraintlayout-2.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/7259e95106904c51abfd7f296eb0dfec/transformed/constraintlayout-2.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/1d750fcfddc58faa0cdde489811a5e55/transformed/jetified-appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/1d750fcfddc58faa0cdde489811a5e55/transformed/jetified-appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/44312a89eee208f1bfcdf6d86237e509/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/44312a89eee208f1bfcdf6d86237e509/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] /Users/touchnote/.gradle/caches/9.0.0/transforms/58e59e3b0e7c9517e56cf1f5ab615ab0/transformed/recyclerview-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] /Users/touchnote/.gradle/caches/9.0.0/transforms/58e59e3b0e7c9517e56cf1f5ab615ab0/transformed/recyclerview-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /Users/touchnote/.gradle/caches/9.0.0/transforms/eda19db33517e71382ba6b643ba507c9/transformed/jetified-viewpager2-1.1.0-beta02/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /Users/touchnote/.gradle/caches/9.0.0/transforms/eda19db33517e71382ba6b643ba507c9/transformed/jetified-viewpager2-1.1.0-beta02/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.8.5] /Users/touchnote/.gradle/caches/9.0.0/transforms/88ba1d648664e36d709c5d9ed2017f47/transformed/fragment-1.8.5/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.8.5] /Users/touchnote/.gradle/caches/9.0.0/transforms/88ba1d648664e36d709c5d9ed2017f47/transformed/fragment-1.8.5/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.8.5] /Users/touchnote/.gradle/caches/9.0.0/transforms/7938445013907092a34c1162a004bbed/transformed/jetified-fragment-ktx-1.8.5/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.8.5] /Users/touchnote/.gradle/caches/9.0.0/transforms/7938445013907092a34c1162a004bbed/transformed/jetified-fragment-ktx-1.8.5/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.9.3] /Users/touchnote/.gradle/caches/9.0.0/transforms/ef4822035f1f649c39bd16b9d03302f1/transformed/jetified-activity-1.9.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.3] /Users/touchnote/.gradle/caches/9.0.0/transforms/ef4822035f1f649c39bd16b9d03302f1/transformed/jetified-activity-1.9.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] /Users/touchnote/.gradle/caches/9.0.0/transforms/fa4455ac3be8601af709b5f5e55db16c/transformed/jetified-activity-ktx-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] /Users/touchnote/.gradle/caches/9.0.0/transforms/fa4455ac3be8601af709b5f5e55db16c/transformed/jetified-activity-ktx-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/f81fa07b7c054f956b0b4b3809d3f25f/transformed/jetified-emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/f81fa07b7c054f956b0b4b3809d3f25f/transformed/jetified-emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/a8213cdd24ca61acff5827e8f5ac8512/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/a8213cdd24ca61acff5827e8f5ac8512/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/touchnote/.gradle/caches/9.0.0/transforms/891fc0a28eeedf11ef0df0d6b6ed46cc/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/touchnote/.gradle/caches/9.0.0/transforms/891fc0a28eeedf11ef0df0d6b6ed46cc/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/e79555247f5e654a27e40d05764e53c1/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/e79555247f5e654a27e40d05764e53c1/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/e8d7b2373ca8d39466f152a505f9c775/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/e8d7b2373ca8d39466f152a505f9c775/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/70338d1794289f30765508d35003b9cf/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/70338d1794289f30765508d35003b9cf/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/079f8c0f95f2e05c5b882974aed92ee1/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/079f8c0f95f2e05c5b882974aed92ee1/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/24df9741243408be784f970fcdc04678/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/24df9741243408be784f970fcdc04678/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d10bdaa07177d65e7b491ced4ded2c7f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d10bdaa07177d65e7b491ced4ded2c7f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/e16433bb11d6c2f4250860a8212cdd8e/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/e16433bb11d6c2f4250860a8212cdd8e/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/175a146ad022e810129980bff16fc3eb/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/175a146ad022e810129980bff16fc3eb/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/2653732da054e4fad0c39bbc2f121164/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/2653732da054e4fad0c39bbc2f121164/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/15a2a0518524ee6010326b1af8d8848f/transformed/core-1.15.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/15a2a0518524ee6010326b1af8d8848f/transformed/core-1.15.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/cf213c8735f87b61e65dc35e4ecc831f/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/cf213c8735f87b61e65dc35e4ecc831f/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/touchnote/.gradle/caches/9.0.0/transforms/35938cc212d9f428fd1f7fbfa8f9bc7c/transformed/jetified-savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/touchnote/.gradle/caches/9.0.0/transforms/35938cc212d9f428fd1f7fbfa8f9bc7c/transformed/jetified-savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/touchnote/.gradle/caches/9.0.0/transforms/1eee9e040601afeb35bda8c7b501df84/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/touchnote/.gradle/caches/9.0.0/transforms/1eee9e040601afeb35bda8c7b501df84/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/9491f52922d39e7e39da849de07ebed8/transformed/lifecycle-livedata-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/9491f52922d39e7e39da849de07ebed8/transformed/lifecycle-livedata-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/dba0f02e72c7c216033ee8580d90867b/transformed/lifecycle-viewmodel-2.8.7/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/dba0f02e72c7c216033ee8580d90867b/transformed/lifecycle-viewmodel-2.8.7/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/0bb999dba406f35a6a9a77c829c84aaa/transformed/jetified-lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/0bb999dba406f35a6a9a77c829c84aaa/transformed/jetified-lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/1441555b04dd3433ef6233b8fd7a514e/transformed/jetified-lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/1441555b04dd3433ef6233b8fd7a514e/transformed/jetified-lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/bbccda44f5d3a7e108b7a8c8ab3a2f3b/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/bbccda44f5d3a7e108b7a8c8ab3a2f3b/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/d8c809a0a9ec966d2fa8c748f5b5e80c/transformed/jetified-lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/d8c809a0a9ec966d2fa8c748f5b5e80c/transformed/jetified-lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/98b533168346b02bd582e925d45f4f80/transformed/jetified-lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/98b533168346b02bd582e925d45f4f80/transformed/jetified-lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/47408f6bd95dc3c5fd2a61cf3d8d485d/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/47408f6bd95dc3c5fd2a61cf3d8d485d/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/f885671ffd8d436d4c87ff3a1aac7bf9/transformed/jetified-lifecycle-livedata-core-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/f885671ffd8d436d4c87ff3a1aac7bf9/transformed/jetified-lifecycle-livedata-core-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/b12db3348a05e0fa28084cc9d59e2e90/transformed/jetified-lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/b12db3348a05e0fa28084cc9d59e2e90/transformed/jetified-lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/7b1b857b8cad8038e44dbcf3250a4a20/transformed/jetified-core-ktx-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/7b1b857b8cad8038e44dbcf3250a4a20/transformed/jetified-core-ktx-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/8a85055667b00cb304cfd6b694b30cf7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/8a85055667b00cb304cfd6b694b30cf7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/5fab2eef2b0a1da015dc6b833c5ee616/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/5fab2eef2b0a1da015dc6b833c5ee616/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d0218a1ff4ea753d49cd0b0034259a61/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d0218a1ff4ea753d49cd0b0034259a61/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/touchnote/.gradle/caches/9.0.0/transforms/2426571dbb07a4bffbda7771202cff79/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/touchnote/.gradle/caches/9.0.0/transforms/2426571dbb07a4bffbda7771202cff79/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d3dd78e837d0673b195238a7a796805f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d3dd78e837d0673b195238a7a796805f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/af1b5a5e89f54834e75db9b43b1f3a16/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/af1b5a5e89f54834e75db9b43b1f3a16/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/touchnote/.gradle/caches/9.0.0/transforms/ff6dc32c73b1ad6021bfe2861b979cba/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/touchnote/.gradle/caches/9.0.0/transforms/ff6dc32c73b1ad6021bfe2861b979cba/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/b9f6667326a2077cc8cd2784b108e4e4/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/b9f6667326a2077cc8cd2784b108e4e4/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/6e7d6c79c663ae058616086b60d6abab/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/6e7d6c79c663ae058616086b60d6abab/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/77be4a3ad9c9f86048960f1829ffcb6d/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/77be4a3ad9c9f86048960f1829ffcb6d/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/84d2dab072dede93712e7dd12dfd2ed5/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/84d2dab072dede93712e7dd12dfd2ed5/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/touchnote/.gradle/caches/9.0.0/transforms/587b09e686036a7c060a0ffd44d2fd57/transformed/jetified-annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/touchnote/.gradle/caches/9.0.0/transforms/587b09e686036a7c060a0ffd44d2fd57/transformed/jetified-annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/touchnote/StudioProjects/android-gpuimage/sample/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:sdk] /Users/touchnote/StudioProjects/android-gpuimage/sdk/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from [:sdk] /Users/touchnote/StudioProjects/android-gpuimage/sdk/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:sdk] /Users/touchnote/StudioProjects/android-gpuimage/sdk/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from [:sdk] /Users/touchnote/StudioProjects/android-gpuimage/sdk/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [:sdk] /Users/touchnote/StudioProjects/android-gpuimage/sdk/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from [:sdk] /Users/touchnote/StudioProjects/android-gpuimage/sdk/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:22-72
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:sdk] /Users/touchnote/StudioProjects/android-gpuimage/sdk/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from [:sdk] /Users/touchnote/StudioProjects/android-gpuimage/sdk/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:sdk] /Users/touchnote/StudioProjects/android-gpuimage/sdk/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [:sdk] /Users/touchnote/StudioProjects/android-gpuimage/sdk/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from [:sdk] /Users/touchnote/StudioProjects/android-gpuimage/sdk/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:12:5-85
+	android:name
+		ADDED from [:sdk] /Users/touchnote/StudioProjects/android-gpuimage/sdk/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:12:22-82
+uses-permission#android.permission.NEARBY_WIFI_DEVICES
+ADDED from [:sdk] /Users/touchnote/StudioProjects/android-gpuimage/sdk/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:13:5-15:58
+	android:usesPermissionFlags
+		ADDED from [:sdk] /Users/touchnote/StudioProjects/android-gpuimage/sdk/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:15:9-55
+	android:name
+		ADDED from [:sdk] /Users/touchnote/StudioProjects/android-gpuimage/sdk/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:14:9-62
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:sdk] /Users/touchnote/StudioProjects/android-gpuimage/sdk/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:16:5-77
+	android:name
+		ADDED from [:sdk] /Users/touchnote/StudioProjects/android-gpuimage/sdk/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:16:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_LOCATION
+ADDED from [:sdk] /Users/touchnote/StudioProjects/android-gpuimage/sdk/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:17:5-86
+	android:name
+		ADDED from [:sdk] /Users/touchnote/StudioProjects/android-gpuimage/sdk/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:17:22-83
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/a8213cdd24ca61acff5827e8f5ac8512/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/47408f6bd95dc3c5fd2a61cf3d8d485d/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/47408f6bd95dc3c5fd2a61cf3d8d485d/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d0218a1ff4ea753d49cd0b0034259a61/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d0218a1ff4ea753d49cd0b0034259a61/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/touchnote/.gradle/caches/9.0.0/transforms/2426571dbb07a4bffbda7771202cff79/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/touchnote/.gradle/caches/9.0.0/transforms/2426571dbb07a4bffbda7771202cff79/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/a8213cdd24ca61acff5827e8f5ac8512/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/a8213cdd24ca61acff5827e8f5ac8512/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/a8213cdd24ca61acff5827e8f5ac8512/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/a8213cdd24ca61acff5827e8f5ac8512/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/a8213cdd24ca61acff5827e8f5ac8512/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/a8213cdd24ca61acff5827e8f5ac8512/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/a8213cdd24ca61acff5827e8f5ac8512/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/15a2a0518524ee6010326b1af8d8848f/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/15a2a0518524ee6010326b1af8d8848f/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/15a2a0518524ee6010326b1af8d8848f/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+permission#com.telco.safetysdk.sample.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/15a2a0518524ee6010326b1af8d8848f/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/15a2a0518524ee6010326b1af8d8848f/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/15a2a0518524ee6010326b1af8d8848f/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/15a2a0518524ee6010326b1af8d8848f/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/15a2a0518524ee6010326b1af8d8848f/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
+uses-permission#com.telco.safetysdk.sample.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/15a2a0518524ee6010326b1af8d8848f/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/15a2a0518524ee6010326b1af8d8848f/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/47408f6bd95dc3c5fd2a61cf3d8d485d/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/47408f6bd95dc3c5fd2a61cf3d8d485d/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/touchnote/.gradle/caches/9.0.0/transforms/47408f6bd95dc3c5fd2a61cf3d8d485d/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d0218a1ff4ea753d49cd0b0034259a61/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d0218a1ff4ea753d49cd0b0034259a61/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d0218a1ff4ea753d49cd0b0034259a61/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d0218a1ff4ea753d49cd0b0034259a61/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d0218a1ff4ea753d49cd0b0034259a61/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d0218a1ff4ea753d49cd0b0034259a61/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d0218a1ff4ea753d49cd0b0034259a61/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d0218a1ff4ea753d49cd0b0034259a61/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d0218a1ff4ea753d49cd0b0034259a61/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d0218a1ff4ea753d49cd0b0034259a61/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d0218a1ff4ea753d49cd0b0034259a61/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d0218a1ff4ea753d49cd0b0034259a61/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d0218a1ff4ea753d49cd0b0034259a61/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d0218a1ff4ea753d49cd0b0034259a61/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d0218a1ff4ea753d49cd0b0034259a61/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d0218a1ff4ea753d49cd0b0034259a61/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d0218a1ff4ea753d49cd0b0034259a61/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d0218a1ff4ea753d49cd0b0034259a61/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d0218a1ff4ea753d49cd0b0034259a61/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d0218a1ff4ea753d49cd0b0034259a61/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/touchnote/.gradle/caches/9.0.0/transforms/d0218a1ff4ea753d49cd0b0034259a61/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:50:25-92

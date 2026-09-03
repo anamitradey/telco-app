@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="12dp">
+
+        <Button
+            android:id="@+id/btnLoc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Start location / geofence loop" />
+
+        <Button
+            android:id="@+id/btnSos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Send SOS" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Member name">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/memberName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Member phone">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/memberPhone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="phone" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <Button
+            android:id="@+id/btnMember"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Add consented circle member" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Geofence name">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/zoneName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <Button
+            android:id="@+id/btnFence"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Add 200m geofence at last location" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Trusted numbers (comma separated)">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/trusted"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <Button
+            android:id="@+id/btnTrusted"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Save trusted contacts (allow-list only)" />
+
+        <TextView
+            android:id="@+id/safetyState"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="8dp"
+            android:textSize="13sp" />
+    </LinearLayout>
+</ScrollView>

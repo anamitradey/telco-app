@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="12dp">
+
+        <com.google.android.material.materialswitch.MaterialSwitch
+            android:id="@+id/swPause"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Internet pause" />
+
+        <com.google.android.material.materialswitch.MaterialSwitch
+            android:id="@+id/swStudy"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Study mode (16:00–18:00)" />
+
+        <com.google.android.material.materialswitch.MaterialSwitch
+            android:id="@+id/swBed"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bedtime mode (22:00–06:00)" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Daily data cap MB (0 = off)">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/capMb"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <Button
+            android:id="@+id/btnCap"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Save data cap" />
+
+        <Button
+            android:id="@+id/btnVpn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Apply pause via VPN (host consent)" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Child profile name">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/childName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <Button
+            android:id="@+id/btnChild"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Add child profile to family dashboard" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Competitor MCC+MNC (e.g. 40410)">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/mccmnc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <Button
+            android:id="@+id/btnMcc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Set competitor operator IDs" />
+
+        <TextView
+            android:id="@+id/parentalState"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="8dp"
+            android:textSize="13sp" />
+    </LinearLayout>
+</ScrollView>
